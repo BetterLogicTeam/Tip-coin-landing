@@ -82,11 +82,10 @@ function Point_work() {
               </div>
             </div>
 
-            <div className="col-lg-6 pe-5">
+            <div className="col-lg-6 embedUpper">
               <iframe
-                className="w-100 h-100 "
+                className="framPWr"
                 src="https://gleam.io/2DOmT/-tip-airdrop-giveaway-"
-                title="W3Schools Free Online Web Tutorials"
               ></iframe>
             </div>
           </div>
